@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Marta is a doctoral candidate in the clinical science program at the [University of Delaware](https://www.psych.udel.edu/graduate/areas-of-study/clinical-science). She is currently on internship at the [Medical University of South Carolina](https://medicine.musc.edu/departments/psychiatry/education/clinical-psychology) where she specializes in `Trauma-Focused CBT`.
+Marta is a doctoral candidate in the clinical science program at the [University of Delaware](https://www.psych.udel.edu/graduate/areas-of-study/clinical-science). She is currently on internship at the [Medical University of South Carolina](https://medicine.musc.edu/departments/psychiatry/education/clinical-psychology) where she specializes in Trauma-Focused CBT.
 
 Marta received her master's degrees at the [University of Szeged, Hungary](https://u-szeged.hu/english) in Clinical and Health Psychology and in Personality and Psychopathology at [Teachers College, Columbia University in the City of New York](https://www.tc.columbia.edu/counseling-and-clinical-psychology/clinical/degrees--requirements/psychology-in-education-general-track-ma/). During her studies at Columbia, Marta worked in Dr. Nim Tottenham's lab, studying the effects of early severe neglect on lifelong structural brain development.
 
