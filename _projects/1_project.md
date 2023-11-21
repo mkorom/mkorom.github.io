@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Services for Children in Their Own Homes (SCOH) - Middle Childhood Outcomes
+description: Efficacy Randomized Clinical Trial of the Attachment and Biobehavioral Catch-up intervention - 8, 9, 10-year follow-up
+img: assets/img/ABC-transp.png
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a
 ---
 
 Every project has a beautiful feature showcase page.
