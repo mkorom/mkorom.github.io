@@ -27,8 +27,8 @@
       "name": "Medical University of South Carolina",
       "position": "Clinical Psychology Intern",
       "url": "https://medicine.musc.edu/departments/psychiatry/education/clinical-psychology",
-      "startDate": "2023-08-01",
-      "endDate": "2024-07-31",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Training focus: Trauma-Focused Cognitive Behavioral Therapy",
       "highlights": [
         "TF-CBT"
@@ -42,8 +42,8 @@
       "url": "https://www.psych.udel.edu/graduate/areas-of-study/clinical-science",
       "area": "Graduate Student in Clinical Science",
       "studyType": "PhD",
-      "startDate": "2018-06-01",
-      "endDate": "2024-06-01",
+      "startDate": "2018",
+      "endDate": "2024",
       "score": "",
       "courses": [
         "Developmental Processes, Advanced Statistics, Research Design"
@@ -63,12 +63,20 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Hungarian",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
       "fluency": "Fluent"
+    }
+    {
+      "language": "Serbian",
+      "fluency": "Fluent"
+    }
+    {
+      "language": "Italian",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [],
