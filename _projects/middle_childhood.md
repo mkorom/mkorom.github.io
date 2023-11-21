@@ -60,5 +60,5 @@ Key findings:
 </div>
 
 <div class="caption">
-         Intervention effects on reactivity to faces (from Valadez et al., 2023).
+         Intervention effects on inhibitory control (see Korom et al., 2021).
      </div>
