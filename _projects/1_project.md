@@ -5,7 +5,7 @@ description: Efficacy Randomized Clinical Trial of the Attachment and Biobehavio
 img: assets/img/MK_resting_pic.jpg
 importance: 1
 category: work
-related_publications: SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a, Korom_RS_MCO
+related_publications: #SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a, Korom_RS_MCO
 ---
 
 Every project has a beautiful feature showcase page.
