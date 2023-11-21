@@ -12,9 +12,9 @@ The project involves children from families who are involved with Child Protecti
 
 Key findings:
 
-    1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state functional connectivity
-    as compared to the control group *(manuscript under review)*. The control intervention showed a negative
-    functional connectivity.
+    1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state
+    functional connectivity as compared to the control group (manuscript under review). The
+    control intervention showed a negative functional connectivity.
 
 
 <div class="row">
@@ -27,9 +27,10 @@ Key findings:
     Intervention effects and cluster-masked mean estimates. Bar plot with overlaid distribution plot of cluster parameter estimates.
 </div>
 
-    2. Children in the ABC group showed greater prefrontal cortex activation in response to photographs of fearful faces
-    compared to children in the control group. This suggests that ABC children had better regulation to threat at the level
-    of brain activation (see Valadez et al., 2023).
+    2. Children in the ABC group showed greater prefrontal cortex activation in response to
+    photographs of fearful faces compared to children in the control group. This suggests
+    that ABC children had better regulation to threat at the level of brain activation
+    (see Valadez et al., 2023).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,6 +45,10 @@ Key findings:
 </div>
 
      3. ABC intervention improves inhibitory control at age 10 (see Korom et al., 2021).
+     Specifically, children who received ABC during early childhood showed faster reaction
+     time on the Stop Signal Reaction Time paradigm as compared to the control
+     intervention group. No statistically significant effect emerged between the ABC and
+     the low-risk comparison group.
 
 <div class="row">
          <div class="col-sm mt-3 mt-md-0">
