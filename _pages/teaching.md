@@ -7,6 +7,13 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching assistant:
+    Research Methods, University of Delaware, Newark, DE
+    Professor: Mary Dozier, PhD
 
-Organize your courses by years, topics, or universities, however you like!
+    Developmental Psychology, University of Delaware, Newark, DE
+    Professor: Julie Hubbard, PhD
+
+Invited lectures:
+    Attachment Theory and Research Seminar, Visiting Lecturer Haverford College, Haverford, PA
+    Professor: Stacia Bourne, PhD  
