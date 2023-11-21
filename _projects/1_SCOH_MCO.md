@@ -11,7 +11,7 @@ related_publications: SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a
 The project involves children from families who are involved with Child Protective Services (CPS) are at greater risk for developing problems related to their socio-emotional, cognitive, and brain development. In efforts to improve these children’s developmental outcomes, we assessed the efficacy of ABC among parents with CPS. Parents were randomly assigned to either receive ABC or to receive a control intervention of the same duration and frequency. We then followed up with the families when children were ages 8, 9 and 10.
 
 Key findings:
-    1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state functional connectivity as compared to the control group (*manuscript under review*). The control intervention showed a negative functional connectivity.
+    1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state functional connectivity as compared to the control group *(manuscript under review)*. The control intervention showed a negative functional connectivity.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,9 +31,9 @@ Key findings:
     </div>
 </div>
 <div class="caption">
-    Intervention effects on reactivity to faces (from *Valadez et al., 2023*).
+    Intervention effects on reactivity to faces *(from Valadez et al., 2023)*.
 </div>
-    3. ABC intervention improves inhibitory control at age 10 (see *Korom et al., 2021*).
+    3. ABC intervention improves inhibitory control at age 10 (see Korom et al., 2021).
 
     {% raw %}
     <div class="row justify-content-sm-center">
