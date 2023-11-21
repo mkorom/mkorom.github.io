@@ -10,6 +10,8 @@ related_publications: SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a
 
 The project involves children from families who are involved with Child Protective Services (CPS) are at greater risk for developing problems related to their socio-emotional, cognitive, and brain development. In efforts to improve these children’s developmental outcomes, we assessed the efficacy of ABC among parents with CPS. Parents were randomly assigned to either receive ABC or to receive a control intervention of the same duration and frequency. We then followed up with the families when children were ages 8, 9 and 10.
 
+Funding: National Institute of Mental Health R01 MH074374 award, “Intervening Early with Neglected Children: Key Adolescence Outcomes.” Period of support: June 1, 2023-May 31, 2024. PI: Mary Dozier, PhD
+
 Key findings:
 
     1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state
