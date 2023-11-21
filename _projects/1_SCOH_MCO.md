@@ -12,7 +12,10 @@ The project involves children from families who are involved with Child Protecti
 
 Key findings:
 
-    1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state functional connectivity as compared to the control group *(manuscript under review)*. The control intervention showed a negative functional connectivity.
+    1. Children in the ABC group show more age-typical (near-zero) amygdala-OFC resting-state functional connectivity
+    as compared to the control group *(manuscript under review)*. The control intervention showed a negative
+    functional connectivity.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,10 +24,12 @@ Key findings:
 </div>
 
 <div class="caption">
-    Intervention effects and cluster-masked mean estimates. A: Location of the significant rs-fc cluster that survived multiple comparisons correction indicated with red. The blue area denotes the coverage of the Julich-Brain probabilistic OFC mask that was used. B: Bar plot with overlaid distribution plot of cluster parameter estimates. The values correspond to the extracted rs-fc values at the OFC region where the significant intervention effect was found between the Attachment and Biobehavioral Catch-Up (ABC), Developmental Education for Families (DEF), and low-risk comparison (COMP) groups.
+    Intervention effects and cluster-masked mean estimates. Bar plot with overlaid distribution plot of cluster parameter estimates.
+</div>
 
-
-    2. Children in the ABC group showed greater prefrontal cortex activation in response to photographs of fearful faces compared to children in the control group. This suggests that ABC children had better regulation to threat at the level of brain activation (see Valadez et al., 2023).
+    2. Children in the ABC group showed greater prefrontal cortex activation in response to photographs of fearful faces
+    compared to children in the control group. This suggests that ABC children had better regulation to threat at the level
+    of brain activation (see Valadez et al., 2023).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,16 +37,17 @@ Key findings:
     </div>
 </div>
 <div class="caption">
-    Intervention effects on reactivity to faces *(from Valadez et al., 2023)*.
+    Intervention effects on reactivity to faces (from Valadez et al., 2023).
 </div>
 
      3. ABC intervention improves inhibitory control at age 10 (see Korom et al., 2021).
 
-     <div class="row">
+<div class="row">
          <div class="col-sm mt-3 mt-md-0">
              {% include figure.html path="assets/img/publication_preview/Korom_SSRT_pic.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
          </div>
-     </div>
-     <div class="caption">
-         Intervention effects on reactivity to faces *(from Valadez et al., 2023)*.
+</div>
+
+<div class="caption">
+         Intervention effects on reactivity to faces (from Valadez et al., 2023).
      </div>
