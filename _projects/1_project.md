@@ -2,7 +2,7 @@
 layout: page
 title: Services for Children in Their Own Homes (SCOH) - Middle Childhood Outcomes
 description: Efficacy Randomized Clinical Trial of the Attachment and Biobehavioral Catch-up intervention - 8, 9, 10-year follow-up
-img: assets/img/ABC-transp.png
+img: assets/img/MK_resting_pic.jpg
 importance: 1
 category: work
 related_publications: SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a, Korom_RS_MCO
