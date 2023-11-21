@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Teaching assistant:
+Teaching Assistant:
 
         Research Methods, University of Delaware, Newark, DE
         Professor: Mary Dozier, PhD
@@ -15,7 +15,7 @@ Teaching assistant:
         Developmental Psychology, University of Delaware, Newark, DE
         Professor: Julie Hubbard, PhD
 
-Invited lectures:
+Invited Lecturer:
 
-        Attachment Theory and Research Seminar, Visiting Lecturer Haverford College, Haverford, PA
+        Attachment Theory and Research Seminar, Haverford College, Haverford, PA
         Professor: Stacia Bourne, PhD
