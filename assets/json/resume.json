@@ -63,19 +63,11 @@
   "skills": [],
   "languages": [
     {
-      "language": "Hungarian",
+      "language": "Hungarian, English",
       "fluency": "Native speaker"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-    {
-      "language": "Serbian",
-      "fluency": "Fluent"
-    }
-    {
-      "language": "Italian",
+      "language": "Serbian, Italian",
       "fluency": "Intermediate"
     }
   ],
