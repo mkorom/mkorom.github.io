@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Candidate #<a href='#'>Doctoral Candidate</a> #. Address. Contacts. Moto. Etc.
+subtitle: Doctoral Candidate in Clinical Science #<a href='#'>Doctoral Candidate</a> #. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
