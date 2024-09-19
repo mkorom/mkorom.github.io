@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Candidate in Clinical Science #<a href='#'>Doctoral Candidate</a> #. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. in Clinical Science #<a href='#'>Doctoral Candidate</a> #. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -28,4 +28,4 @@ Marta gradueate training in Dr. Mary Dozier's [ABC lab](https://www.abcintervent
 
 Marta uses structural and functional MRI, EEG, hormonal assays, and behavioral methods to understand how interventions can promote resilience following early insensitive care.
 
-She is currently a post-doctoral fellow at the [National Institute of Mental Health](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan), mentored by Dr. Katharina Kircanski and Dr. Daniel Pine. At NIMH, she studies the effects of the Unified Protocol on the brain development of depressed adolescents, with the ultimate goal to understand better mechanisms of therapeutic change. 
+She is currently a post-doctoral fellow at the [National Institute of Mental Health](https://www.nimh.nih.gov/research/research-conducted-at-nimh/research-areas/clinics-and-labs/edb/sdan), mentored by Dr. Katharina Kircanski and Dr. Daniel Pine. At NIMH, she studies the effects of the Unified Protocol on the brain development of depressed adolescents, with the ultimate goal to understand better mechanisms of therapeutic change.
