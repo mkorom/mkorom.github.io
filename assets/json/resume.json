@@ -24,8 +24,19 @@
   },
   "work": [
     {
+      "name": "National Institute of Mental Health",
+      "position": "Post-Doctoral Fellow, Section on Development and Affective Neuroscience",
+      "url": "https://medicine.musc.edu/departments/psychiatry/education/clinical-psychology",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Researching the effects of evidence-based treatments on change in brain function and structure.",
+      "highlights": [
+        "MRI"
+      ]
+    }
+    {
       "name": "Medical University of South Carolina",
-      "position": "Clinical Psychology Intern",
+      "position": "Former Clinical Psychology Intern",
       "url": "https://medicine.musc.edu/departments/psychiatry/education/clinical-psychology",
       "startDate": "2023",
       "endDate": "2024",
