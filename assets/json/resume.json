@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Marta Korom",
-    "label": "Clinical Researcher",
+    "label": "PhD in Clinical Science",
     "image": "",
-    "email": "mkorom@udel.edu",
+    "email": "marta.korom@nih.gov",
     "phone": "",
     "url": "https://mkorom.github.io",
     "summary": "",
@@ -31,7 +31,7 @@
       "endDate": "Present",
       "summary": "Researching the effects of evidence-based treatments on change in brain function and structure.",
       "highlights": [
-        "MRI"
+        "structural and functional MRI; EEG; evidence-based interventions"
       ]
     }
   ],
