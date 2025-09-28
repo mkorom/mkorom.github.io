@@ -5,12 +5,15 @@ description: NIMH-funded randomized clinical trial, called Services for Children
 img: assets/img/publication_preview/MK_resting_pic.jpeg
 importance: 1
 category: work
-related_publications: SweattS.KGowerB.AChiehA.YLiuYLi2016, Valadez2023a
+related_publications: KoromSSRT2021 Korom_Valadez_Tottenham_Dozier_Spielberg_2024 Valadez2023a Korom2023 Korom2023a
 ---
 
 The project involves children from families who are involved with Child Protective Services (CPS) are at greater risk for developing problems related to their socio-emotional, cognitive, and brain development. In efforts to improve these children’s developmental outcomes, we assessed the efficacy of ABC among parents with CPS. Parents were randomly assigned to either receive ABC or to receive a control intervention of the same duration and frequency. We then followed up with the families when children were ages 8, 9 and 10.
 
-Funding: National Institute of Mental Health R01 MH074374 award, “Intervening Early with Neglected Children: Key Adolescence Outcomes.” Period of support: June 1, 2023-May 31, 2024. PI: Mary Dozier, PhD
+Funding: National Institute of Mental Health R01 MH074374 award
+Project Title: Intervening Early with Neglected Children: Key Adolescence Outcomes.”
+Period of Support: 2016 - 2018.
+PI: Mary Dozier, PhD
 
 Key findings:
 
