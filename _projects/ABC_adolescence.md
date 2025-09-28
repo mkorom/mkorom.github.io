@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ABC - Middle childhood follow-up
-description: NIMH-funded randomized clinical trial, called Services for Children in Their Own Homes (SCOH), testing the efficacy of the Attachment and Biobehavioral Catch-up intervention at 8, 9, 10-years of age.
+title: ABC - Adolescent follow-up
+description: NIMH-funded randomized clinical trial, called Services for Children in Their Own Homes (SCOH), testing the efficacy of the Attachment and Biobehavioral Catch-up intervention at 13, 14 and 15-years of age.
 img: assets/img/publication_preview/MK_resting_pic.jpeg
 importance: 1
 category: work
