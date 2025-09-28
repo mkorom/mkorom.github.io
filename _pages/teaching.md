@@ -45,4 +45,5 @@ Invited Talks, Workshops, Symposia:
         Neuroscience for High School Students Mentor, Diversity Initiative, ABC Lab, Newark, DE		       
         Date: Spring 2021
 
-        Annual Research Methods Symposium Organizer, Teachers College, Columbia University	                    Date: Spring 2017
+        Annual Research Methods Symposium Organizer, Teachers College, Columbia University	                    
+        Date: Spring 2017
