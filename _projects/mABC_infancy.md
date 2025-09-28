@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "mABC - Infant MRI Project"
+title: mABC - Infant MRI Project
 description: Infant MRI scanning project examining the efficacy of the modified ABC intervention at 6 and 12 months of age in a group of opioid-exposed infants.
 img: assets/img/publication_preview/mABC.jpeg
 importance: 1
